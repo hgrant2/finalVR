@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/vr_student/Documents/Unreal Projects/finalVR/Project/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/vr_student/Documents/Unreal Projects/finalVR/Project/Content/Level1.umap"
+			]
+		}
+	]
+}
