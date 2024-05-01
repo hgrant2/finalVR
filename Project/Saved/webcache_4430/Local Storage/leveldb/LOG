@@ -1,5 +1,3 @@
-2024/04/29-18:15:27.562 49c0 Reusing MANIFEST C:/Users/vr_student/Documents/GitHub/finalVR/Project/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/04/29-18:15:27.562 49c0 Recovering log #4
-2024/04/29-18:15:27.563 49c0 Level-0 table #7: started
-2024/04/29-18:15:27.566 49c0 Level-0 table #7: 21508 bytes OK
-2024/04/29-18:15:27.569 49c0 Delete type=0 #4
+2024/05/01-12:26:29.064 1718 Reusing MANIFEST C:/Users/vr_student/Documents/GitHub/finalVR/Project/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/05/01-12:26:29.069 1718 Recovering log #8
+2024/05/01-12:26:29.070 1718 Reusing old log C:/Users/vr_student/Documents/GitHub/finalVR/Project/Saved/webcache_4430\Local Storage\leveldb/000008.log 
